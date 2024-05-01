@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/DAO/CheckOutDAO.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/web/index-list-product.jsp</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Controller/listProductController.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Model/Order.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/DAO/TypeDAO.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/DAO/ProductDAO.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Model/Item.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/web/Cart.jsp</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Model/Cart.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Controller/deleteController.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/E:/Documents/Java/AppleStore/web/index-detail-product.jsp</file>
+            <file>file:/E:/Documents/Java/AppleStore/src/java/Controller/processOnCartController.java</file>
+        </group>
+    </open-files>
+</project-private>
