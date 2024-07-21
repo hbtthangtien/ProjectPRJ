@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main
+=======
+xin chao
+>>>>>>> 1ef4e08cac5bcb8f2a1bf7476821a2275ceae38d
